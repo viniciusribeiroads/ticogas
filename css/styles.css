@@ -229,9 +229,7 @@ section .card-item {
 
 .left {
     width: 25;
-    min-width: 300px;
     height: 100%;
-    background: var(--blue);
     border-radius: 8px;
 }
 .right {
